@@ -14,14 +14,6 @@ A multimodal application that combines image captioning with LLM-based Q&A to ex
 - Lightweight and interactive interface
 
 ## 📁 Structure
-<prep>
-image_explainer/
-├── app.py
-├── utils.py
-├── models/
-│   ├── blip_model.py
-│   └── gpt_response.py
-</prep>
 
 ## 🖼️ Example
 > Upload image of a dog on a skateboard  
