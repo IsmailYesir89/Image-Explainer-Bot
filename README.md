@@ -12,9 +12,6 @@ A multimodal application that combines image captioning with LLM-based Q&A to ex
 - Upload an image and get a caption
 - Ask questions about the image content
 - Lightweight and interactive interface
-
-## 📁 Structure
-
 ## 🖼️ Example
 > Upload image of a dog on a skateboard  
 > 💬 "A brown dog riding a skateboard on a sunny street"
